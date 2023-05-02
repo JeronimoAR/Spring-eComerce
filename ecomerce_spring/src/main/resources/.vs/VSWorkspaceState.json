@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\static",
+    "\\static\\css",
+    "\\templates",
+    "\\templates\\admin",
+    "\\templates\\productos",
+    "\\templates\\user"
+  ],
+  "SelectedNode": "\\templates\\user\\carrito.html",
+  "PreviewInSolutionExplorer": false
+}
